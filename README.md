@@ -4,16 +4,16 @@ Este projeto foi desenvolvido como parte da disciplina de Desenvolvimento de Sis
 
 ## 💻 Tecnologias Utilizadas
 
-* ⚛️ **Framework: React Native**  
+* **Framework: React Native**  
   Framework utilizado para o desenvolvimento do app mobile com **TypeScript**, aplicando conceitos de orientação a objetos.
 
-* 🧠 **Dataset:**  [Millions of Movies – Kaggle](https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies)  
+* **Dataset:**  [Millions of Movies – Kaggle](https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies)  
 
-* 🔐 **Banco de dados: Firebase**  
+* **Banco de dados: Firebase**  
   - **Autenticação de usuários** com login seguro;
   - **Banco de dados em tempo real**, responsável por armazenar e gerenciar os dados do aplicativo na nuvem.
 
-* 📦 **Gerenciamento de Dependências: npm**  
+* **Gerenciamento de Dependências: npm**  
   Utilização do **Node Package Manager** para instalação e controle das bibliotecas e pacotes utilizados no projeto.
 
 ## 📷 Imagens do Sistema
@@ -69,8 +69,8 @@ Este projeto foi desenvolvido como parte da disciplina de Desenvolvimento de Sis
 | Gabriel Vinícius     | gabrielvto18@gmail.com   |
 | Luan Vinícius     | limaluan32104@gmail.com   |
 | Rodrigo Santana     | rodrigosantana.dev@gmail.com   |
-| Victor de Souza     | victorsouza183@gmail.com   |
 | Thalyson Kauan    | thalyson.kauan7@gmail.com |
+| Victor de Souza     | victorsouza183@gmail.com   |
 
 
 
